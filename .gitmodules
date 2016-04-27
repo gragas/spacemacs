@@ -1,0 +1,6 @@
+[submodule ".spacemacs.d"]
+	path = .spacemacs.d
+	url = https://github.com/mazinbokhari/.spacemacs.d
+[submodule ".emacs.d"]
+	path = .emacs.d
+	url = https://github.com/mazinbokhari/.emacs.d
